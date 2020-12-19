@@ -1,5 +1,5 @@
 Dependencies for Project 'Template', Target 'Template': (DO NOT MODIFY !)
-F (.\main.c)(0x5FD770A1)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\CORE -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\SYSTEM\sys -I ..\SYSTEM\delay -I ..\SYSTEM\usart -I ..\HARDWARE\led -I ..\HARDWARE\key-IC:\Users\dell\Desktop\stm32pra\KEY\Template\USER\RTE-ID:\MDK5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\obj\main.o --omf_browse ..\obj\main.crf --depend ..\obj\main.d)
+F (.\main.c)(0x5FDA3239)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\CORE -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\SYSTEM\sys -I ..\SYSTEM\delay -I ..\SYSTEM\usart -I ..\HARDWARE\led -I ..\HARDWARE\key-IC:\Users\dell\Desktop\stm32pra\KEY\Template\USER\RTE-ID:\MDK5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\obj\main.o --omf_browse ..\obj\main.crf --depend ..\obj\main.d)
 I (..\HARDWARE\led\led.h)(0x5FD76B29)
 I (..\HARDWARE\key\key.h)(0x5FD76E10)
 I (..\SYSTEM\sys\sys.h)(0x550F951B)
@@ -63,7 +63,7 @@ I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x4D783BB4)
 I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x4D783BB4)
 I (..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h)(0x4D783BB4)
 I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
-F (.\system_stm32f10x.c)(0x4D99A59E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\CORE -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\SYSTEM\sys -I ..\SYSTEM\delay -I ..\SYSTEM\usart -I ..\HARDWARE\led -I ..\HARDWARE\key-IC:\Users\dell\Desktop\stm32pra\KEY\Template\USER\RTE-ID:\MDK5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\obj\system_stm32f10x.o --omf_browse ..\obj\system_stm32f10x.crf --depend ..\obj\system_stm32f10x.d)
+F (.\system_stm32f10x.c)(0x5FDB140F)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\CORE -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\SYSTEM\sys -I ..\SYSTEM\delay -I ..\SYSTEM\usart -I ..\HARDWARE\led -I ..\HARDWARE\key-IC:\Users\dell\Desktop\stm32pra\KEY\Template\USER\RTE-ID:\MDK5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\obj\system_stm32f10x.o --omf_browse ..\obj\system_stm32f10x.crf --depend ..\obj\system_stm32f10x.d)
 I (stm32f10x.h)(0x4D783CB4)
 I (..\CORE\core_cm3.h)(0x4D523B58)
 I (D:\MDK5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
@@ -763,7 +763,7 @@ I (..\STM32F10x_FWLib\inc\stm32f10x_spi.h)(0x4D783BB4)
 I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x4D783BB4)
 I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x4D783BB4)
 I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
-F (..\SYSTEM\delay\delay.c)(0x55CC2E5D)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\CORE -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\SYSTEM\sys -I ..\SYSTEM\delay -I ..\SYSTEM\usart -I ..\HARDWARE\led -I ..\HARDWARE\key-IC:\Users\dell\Desktop\stm32pra\KEY\Template\USER\RTE-ID:\MDK5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\obj\delay.o --omf_browse ..\obj\delay.crf --depend ..\obj\delay.d)
+F (..\SYSTEM\delay\delay.c)(0x5FDB33AA)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\CORE -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\SYSTEM\sys -I ..\SYSTEM\delay -I ..\SYSTEM\usart -I ..\HARDWARE\led -I ..\HARDWARE\key-IC:\Users\dell\Desktop\stm32pra\KEY\Template\USER\RTE-ID:\MDK5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\obj\delay.o --omf_browse ..\obj\delay.crf --depend ..\obj\delay.d)
 I (..\SYSTEM\delay\delay.h)(0x55CC2E59)
 I (..\SYSTEM\sys\sys.h)(0x550F951B)
 I (..\USER\stm32f10x.h)(0x4D783CB4)
@@ -856,7 +856,7 @@ I (..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h)(0x4D783BB4)
 I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
 I (..\SYSTEM\usart\usart.h)(0x50517A82)
 I (D:\MDK5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
-F (..\HARDWARE\key\key.c)(0x5FD774DC)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\CORE -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\SYSTEM\sys -I ..\SYSTEM\delay -I ..\SYSTEM\usart -I ..\HARDWARE\led -I ..\HARDWARE\key-IC:\Users\dell\Desktop\stm32pra\KEY\Template\USER\RTE-ID:\MDK5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\obj\key.o --omf_browse ..\obj\key.crf --depend ..\obj\key.d)
+F (..\HARDWARE\key\key.c)(0x5FDB33AA)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\CORE -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\SYSTEM\sys -I ..\SYSTEM\delay -I ..\SYSTEM\usart -I ..\HARDWARE\led -I ..\HARDWARE\key-IC:\Users\dell\Desktop\stm32pra\KEY\Template\USER\RTE-ID:\MDK5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\obj\key.o --omf_browse ..\obj\key.crf --depend ..\obj\key.d)
 I (..\HARDWARE\key\key.h)(0x5FD76E10)
 I (..\SYSTEM\sys\sys.h)(0x550F951B)
 I (..\USER\stm32f10x.h)(0x4D783CB4)

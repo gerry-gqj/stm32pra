@@ -335,7 +335,7 @@
               <MiscControls></MiscControls>
               <Define>STM32F10X_HD,USE_STDPERIPH_DRIVER</Define>
               <Undefine></Undefine>
-              <IncludePath>..\CORE;..\USER;..\STM32F10x_FWLib\inc;..\SYSTEM\sys;..\SYSTEM\delay;..\SYSTEM\usart</IncludePath>
+              <IncludePath>..\CORE;..\USER;..\STM32F10x_FWLib\inc;..\SYSTEM\sys;..\SYSTEM\delay;..\SYSTEM\usart;..\HARDWARE\tem</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -548,6 +548,16 @@
               <FileName>usart.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\SYSTEM\usart\usart.c</FilePath>
+            </File>
+          </Files>
+        </Group>
+        <Group>
+          <GroupName>HARDWARE</GroupName>
+          <Files>
+            <File>
+              <FileName>tem.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\HARDWARE\tem\tem.c</FilePath>
             </File>
           </Files>
         </Group>
